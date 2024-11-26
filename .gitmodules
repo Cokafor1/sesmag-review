@@ -1,0 +1,3 @@
+[submodule "sesmag-review"]
+	path = sesmag-review
+	url = https://github.com/Cokafor1/sesmag-review.git
